@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src= "./src/image.png"/>
+<img src= "./app/src/image.png"/>
 <p>OPORTUNIDADE</p>
 </h1>
 
