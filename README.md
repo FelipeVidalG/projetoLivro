@@ -1,8 +1,3 @@
-<h1 align="center">
-<img src= "./app/src/image.png"/>
-<p>OPORTUNIDADE</p>
-</h1>
-
 ## 📘 Sobre
 
 O projeto é uma **API REST**, com Flask e controle de acesso usando autenticação **JWT**.
